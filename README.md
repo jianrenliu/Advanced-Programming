@@ -1,5 +1,5 @@
 # Advanced-Programming
-advanced programming course teaching by LIU Qiang
+Advanced programming course teaching by LIU Qiang
 
 There are notes, example codes and homework for advanced programming course here.
 
